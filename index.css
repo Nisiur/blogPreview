@@ -82,19 +82,7 @@ h2{
 }
 
 
-@media (max-width: 375px){
-    section{
-        min-width: 375px;
-        margin-right: 12em;
-    }
-    .banner{
-        background-size: contain;
-        width: 100%;
-    }
-    .attribution{
-        min-width: 375px;
-    }
-}
+
 
 @media (min-width: 400px){
     section{
